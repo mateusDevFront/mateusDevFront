@@ -1,6 +1,6 @@
-### Eaiiii eu sou o Mateus 😁
-### Developer Mobile 📱
-### Graduando em Análise e Desenvolvimento de Sistemas
+### Mateus Nascimento 😁
+### Mobile Developer 📱
+### Cursando Análise e Desenvolvimento de Sistemas
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585985413096)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mateusdsgn2001@gmail.com) [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mateuss019/)
