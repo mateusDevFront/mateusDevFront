@@ -1,4 +1,3 @@
-### Mateus Nascimento 😁
 ### Desenvolvedor Mobile | React Native 📱
 ### Cursando Análise e Desenvolvimento de Sistemas
 
